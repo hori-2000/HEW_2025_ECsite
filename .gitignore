@@ -1,0 +1,18 @@
+# Large files
+*.tar.xz
+*.tar.gz
+
+# Blender binaries
+Blender_app/blender-*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
